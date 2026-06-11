@@ -1,1 +1,1 @@
-This is the stasting phase of my project, where i am learning version control.
+This is the stasting phase of my branching project, where i am learning branching and merging here in these files.
